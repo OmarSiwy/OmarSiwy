@@ -1,5 +1,23 @@
-
-### Hey, Omar Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+  
+<div id="badges">
+<a href="https://www.linkedin.com/in/omar-el-sawy/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/omarsawe/">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+</a>
+<a href="mailto:ok.elsawy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+<a href="https://leetcode.com/Defrocker/">
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+</a>
+</div>
 
 <!-- GITHUB STATS -->
 <hr>
@@ -27,7 +45,9 @@
 <br>
 <br>
  
- ## Who am I?
+<p>
+  <h3 align="center">About Me:</h3>
+<p>
  ```C++
 template <typename DerivedPerson>
 class WhoAmI {
@@ -48,7 +68,5 @@ public:
 	static const char* Location = "Waterloo City";
 }
  ```
-
-## Current Projects
  
 
