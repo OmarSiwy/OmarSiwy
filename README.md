@@ -19,10 +19,11 @@
 </a>
 </div>
 <br>
-
+</div>
 ---
 
 ### :bar_chart: My GitHub Stats
+<div align="center">
 <p>
   <a href="https://github.com/OmarSiwy/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark" alt="Omar's GitHub Stats" height="180"/>
@@ -31,6 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&layout=compact&theme=dark" alt="Top Languages Used" height="180"/>
   </a>
 </p>
+</div>
 
 ---
 
@@ -42,5 +44,3 @@ I'm actively working on projects that push the boundaries of technology and inno
 - 🚀 **Runner's Pal, A Line-Tracking Pacer and Music Robot**:
 
 ---
-
-</div>
