@@ -19,35 +19,15 @@
 </a>
 </div>
 
-<!-- GITHUB STATS -->
-<hr>
-<div style="display: block;">
-<p>
-  <h3 align="center">Stats:</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarSiwy&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="OmarSiwy" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OmarSiwy&show_icons=true&theme=dark&locale=en" alt="OmarSiwy" /></p></a>  
-  </p>
-</p>
-</div>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+### :bar_chart: GitHub stats
+
+[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark)](https://github.com/OmarSiwy/github-readme-stats)
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&show_icons=true&theme=dark)
  
-<p>
-  <h3 align="center">About Me:</h3>
-<p>
+### About Me
  ```C++
 template <typename DerivedPerson>
 class WhoAmI {
@@ -67,6 +47,8 @@ public:
 	static const char* CurrentEducation = "University of Waterloo";
 	static const char* Location = "Waterloo City";
 }
+
+</div>
  ```
  
 
