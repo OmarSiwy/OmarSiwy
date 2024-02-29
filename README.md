@@ -22,26 +22,24 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
+ ```C++
+template <typename DerivedPerson>
+class WhoAmI {
+public:
+	void PrintDetails() {
+		printf("Name: %s\n Education: %s\n, Hobbies: %s\n",
+		static_cast<DerivedPerson*>(this)->Name,
+		static_cast<Derived*>(this)->CurrentEducation,
+		static_cast<Derived*>(this)->Location);
+	}
+}
+
+class Omar : public WhoAmI<Omar> {
+public:
+	static const char* Name = "Omar El-Sawy";
+	static const char* CurrentEducation = "University of Waterloo";
+	static const char* Location = "Waterloo City";
+}
  ```
  
 ## Current Works
