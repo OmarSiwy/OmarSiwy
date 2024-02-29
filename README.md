@@ -36,7 +36,4 @@
 </div>
 
 🌟 **Zig Abstraction Layer for ARM-Based Micro-Controllers**  
-Working on a high-performance layer to simplify development on ARM-based microcontrollers using Zig, aiming for efficiency and speed.
-
-🚀 **Runner's Pal - A Line-Tracking Robot**  
-A line-tracking robot designed to pace runners, offering additional benefits to enhance your running experience.
+🚀 **Runner's Pal - A Line-Tracking Pacing Robot**  
