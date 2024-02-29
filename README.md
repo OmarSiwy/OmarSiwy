@@ -3,7 +3,7 @@
 <div id="header">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-  
+<br>
 <div id="badges">
 <a href="https://www.linkedin.com/in/omar-el-sawy/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,7 +20,7 @@
 </div>
 
 ### :bar_chart: GitHub stats
-
+<br>
 <!-- GitHub stats side by side -->
 <p>
   <a href="https://github.com/OmarSiwy/github-readme-stats">
@@ -32,6 +32,7 @@
 </p>
 
 ### ⚡ Current Works
+<br>
 </div>
 
 🌟 **Zig Abstraction Layer for ARM-Based Micro-Controllers**  
