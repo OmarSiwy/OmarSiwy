@@ -21,9 +21,15 @@
 
 ### :bar_chart: GitHub stats
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark)](https://github.com/OmarSiwy/github-readme-stats)
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&show_icons=true&theme=dark)
+<!-- GitHub stats side by side -->
+<p>
+  <a href="https://github.com/OmarSiwy/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark" alt="Omar's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/OmarSiwy/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&show_icons=true&theme=dark" alt="Top Languages Used"/>
+  </a>
+</p>
  
 ### Current Works
 
