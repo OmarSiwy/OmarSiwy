@@ -30,9 +30,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&show_icons=true&theme=dark" alt="Top Languages Used"/>
   </a>
 </p>
-</div>
 
 ### ⚡ Current Works
+</div>
 
 🌟 **Zig Abstraction Layer for ARM-Based Micro-Controllers**  
 Working on a high-performance layer to simplify development on ARM-based microcontrollers using Zig, aiming for efficiency and speed.
