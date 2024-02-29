@@ -19,8 +19,9 @@
 </a>
 </div>
 <br>
-</div>
+
 ---
+</div>
 
 ### :bar_chart: My GitHub Stats
 <div align="center">
