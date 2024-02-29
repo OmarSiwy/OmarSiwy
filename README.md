@@ -21,34 +21,10 @@
 
 ### :bar_chart: GitHub stats
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
-
 [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark)](https://github.com/OmarSiwy/github-readme-stats)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&show_icons=true&theme=dark)
  
-### About Me
- ```C++
-template <typename DerivedPerson>
-class WhoAmI {
-public:
-	void PrintDetails() {
-		printf("Name: %s\n Education: %s\n, Hobbies: %s\n",
-		static_cast<DerivedPerson*>(this)->Name,
-		static_cast<Derived*>(this)->CurrentEducation,
-		static_cast<Derived*>(this)->Location;
-		static_cast<Derived*>(this)->CurrentJob); // COMPILATION ERROR: NO CURRENT JOB
-	}
-}
-
-class Omar : public WhoAmI<Omar> {
-public:
-	static const char* Name = "Omar El-Sawy";
-	static const char* CurrentEducation = "University of Waterloo";
-	static const char* Location = "Waterloo City";
-}
+### Current Works
 
 </div>
- ```
- 
-
