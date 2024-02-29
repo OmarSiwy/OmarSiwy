@@ -9,31 +9,38 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/omarsawe/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <a href="mailto:ok.elsawy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
 </a>
 <a href="https://leetcode.com/Defrocker/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
 </a>
 </div>
-
-### :bar_chart: GitHub stats
 <br>
-<!-- GitHub stats side by side -->
+
+---
+
+### :bar_chart: My GitHub Stats
 <p>
   <a href="https://github.com/OmarSiwy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark" alt="Omar's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=OmarSiwy&count_private=true&show_icons=true&theme=dark" alt="Omar's GitHub Stats" height="180"/>
   </a>
   <a href="https://github.com/OmarSiwy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&show_icons=true&theme=dark" alt="Top Languages Used"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSiwy&layout=compact&theme=dark" alt="Top Languages Used" height="180"/>
   </a>
 </p>
 
-### ⚡ Current Works
-<br>
-</div>
+---
 
-🌟 **Zig Abstraction Layer for ARM-Based Micro-Controllers**  
-🚀 **Runner's Pal - A Line-Tracking Pacing Robot**  
+### ⚡ Current Works
+
+I'm actively working on projects that push the boundaries of technology and innovation:
+
+- 🌟 **Zig Abstraction Layer for ARM-Based Micro-Controllers**
+- 🚀 **Runner's Pal, A Line-Tracking Pacer and Music Robot**:
+
+---
+
+</div>
