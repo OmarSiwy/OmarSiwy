@@ -41,7 +41,7 @@
 
 I'm actively working on projects that push the boundaries of technology and innovation:
 
-- 🌟 **Zig Abstraction Layer for ARM-Based Micro-Controllers**
+- 🌟 **Zig Powered Filtering Library**
 - 🚀 **Runner's Pal, A Line-Tracking Pacer and Music Robot**:
 
 ---
