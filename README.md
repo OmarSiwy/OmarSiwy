@@ -41,7 +41,7 @@
 
 I'm actively working on projects that push the boundaries of technology and innovation:
 
-- 🌟 **Zig Powered Filtering Library**
-- 🚀 **Runner's Pal, A Line-Tracking Pacer and Music Robot**:
+- 🌟 **Post Work, A Presenting Tool used for 3D Designs*
+- 🚀 **Runner's Pal, A Line-Tracking Pacer and Music Robot**
 
 ---
