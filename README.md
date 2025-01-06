@@ -36,8 +36,9 @@
 
 ### ⚡ Current Works
 
-I'm currently exploring my love for low-level Design whether it is through Digital or Analog Boards, or Programming their Firmware.
-Here are some of my active Project
+I LOVE low-level design, building projects from scratch and optimizing them. SOMETHING ABOUT IT.
+
+Here are some of my projects:
 
 - 🌟 **RISC-V CPU, A basic embedded RV32E CPU, with the ability to group up matrix operations and perform them quicker**
 - 🚀 **CompOS, A Real-Time Operating System powered by Compile-Time**
