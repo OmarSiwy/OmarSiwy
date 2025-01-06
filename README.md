@@ -39,9 +39,10 @@
 
 ### ⚡ Current Works
 
-I'm actively working on projects that push the boundaries of technology and innovation:
+I'm currently exploring my love for low-level Design whether it is through Digital or Analog Boards, or Programming their Firmware.
+Here are some of my active Project
 
-- 🌟 **Post Work, A Presenting Tool used for 3D Designs**
-- 🚀 **Runner's Pal, A Line-Tracking Pacer and Music Robot**
+- 🌟 **RISC-V CPU, A basic embedded RV32E CPU, with the ability to group up matrix operations and perform them quicker**
+- 🚀 **CompOS, A Real-Time Operating System powered by Compile-Time**
 
 ---
