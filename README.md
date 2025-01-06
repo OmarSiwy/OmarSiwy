@@ -1,8 +1,5 @@
 <div align="center">
-  
-<div id="header">
-<img src="https://github.com/OmarSiwy.png" width="100"/>
-</div>
+
 <br>
 <div id="badges">
 <a href="https://www.linkedin.com/in/omar-el-sawy/">
