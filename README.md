@@ -38,9 +38,9 @@
 
 I LOVE low-level design, building projects from scratch and optimizing them. SOMETHING ABOUT IT.
 
-Here are some of my projects:
+Here are some of my active projects:
 
-- 🌟 **RISC-V CPU, A basic embedded RV32E CPU, with the ability to group up matrix operations and perform them quicker**
-- 🚀 **CompOS, A Real-Time Operating System powered by Compile-Time**
-
+- **RISC-V CPU, A basic embedded RV32E CPU, with the ability to group up matrix operations and perform them quicker**
+- **CompOS, A Real-Time Operating System powered by Compile-Time**
+- **Power-Sweep, A split-keyboard I'd love to use with a few tweaks from the original Ferris-Sweep Model**
 ---
