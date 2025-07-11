@@ -22,8 +22,6 @@
 
 ### ⚡ Current Works
 
-I LOVE low-level design, building projects from scratch and optimizing them. SOMETHING ABOUT IT.
-
 Here are some of my active projects:
 
 - **ZyzVerilog, Verilog IEEE(1800-2023); formatter, linter, and synthesizer**
