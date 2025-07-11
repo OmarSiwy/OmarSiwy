@@ -16,6 +16,7 @@
 </a>
 </div>
 <br>
+</div>
 
 ---
 
@@ -25,7 +26,7 @@ I LOVE low-level design, building projects from scratch and optimizing them. SOM
 
 Here are some of my active projects:
 
- **ZyzVerilog, Verilog IEEE(1800-2023); formatter, linter, and synthesizer**
- **RISC-V CPU, A pico-sized RV32E CPU, optimized Matrix-Vector Multiplication**
- **CompOS, A Real-Time Operating System powered by Compile-Time**
+- **ZyzVerilog, Verilog IEEE(1800-2023); formatter, linter, and synthesizer**
+- **RISC-V CPU, A pico-sized RV32E CPU, optimized Matrix-Vector Multiplication**
+- **CompOS, A Real-Time Operating System powered by Compile-Time**
 ---
