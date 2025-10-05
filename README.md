@@ -22,7 +22,7 @@
 
 ### ⚡ Current Works
 
-- **ZyzVerilog, Verilog IEEE(1800-2023); formatter, linter, and synthesizer**
+- **ZyzVerilog, Verilog IEEE(1800-2023); formatter, linter, and synthesizer in Zig**
 - **RISC-V CPU, A pico-sized RV32E CPU, optimized Matrix-Vector Multiplication**
 - **CompOS, A Real-Time Operating System powered by Compile-Time**
 ---
