@@ -19,8 +19,3 @@
 </div>
 
 ---
-
-### ⚡ Current Works
-
-- **CompOS, A Real-Time Operating System powered by Compile-Time**
----
